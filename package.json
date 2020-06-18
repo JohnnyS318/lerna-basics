@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JohnnyS318/lerna-basics/issues"
   },
-  "homepage": "https://github.com/JohnnyS318/lerna-basics#readme"
+  "homepage": "https://github.com/JohnnyS318/lerna-basics#readme",
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
 }
